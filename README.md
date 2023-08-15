@@ -39,8 +39,10 @@
 
 </p>
 
-### Socials
+### Projects
 
-<p align="left">
-
-</p>
+<a href="https://texnomart.uz" target="_blank" rel="noreferrer">OOO Texnomart</a>
+<a href="https://jqtm.uz/ru" target="_blank" rel="noreferrer">Center for retraining of journalists</a>
+<a href="https://hwashin.uz/" target="_blank" rel="noreferrer">Hwashin Korea University</a>
+<a href="https://toshvxtb.uz/" target="_blank" rel="noreferrer">Preschool and school education department of Tashkent region</a>
+<a href="https://mirjalol9797.github.io/" target="_blank" rel="noreferrer">Acidus</a>
