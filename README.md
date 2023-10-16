@@ -46,3 +46,10 @@
 <a href="https://hwashin.uz/" target="_blank" rel="noreferrer">Hwashin Korea University</a> <br />
 <a href="https://toshvxtb.uz/" target="_blank" rel="noreferrer">Preschool and school education department of Tashkent region</a> <br />
 <a href="https://mirjalol9797.github.io/" target="_blank" rel="noreferrer">Acidus</a> <br />
+<a href="https://iegu.ru/" target="_blank" rel="noreferrer">Institute for Effective Public Administration</a> <br />
+<a href="https://armata77.ru/" target="_blank" rel="noreferrer">Group of companies "ARMATA"</a> <br />
+<a href="https://infinity-clinic.ru/" target="_blank" rel="noreferrer">Cosmetology and aesthetic medicine</a> <br />
+<a href="https://77182651441.21.oml.ru/" target="_blank" rel="noreferrer">Interra</a> <br />
+<a href="http://liga63.ru/" target="_blank" rel="noreferrer">Legal services</a> <br />
+
+
