@@ -51,5 +51,6 @@
 <a href="https://infinity-clinic.ru/" target="_blank" rel="noreferrer">Cosmetology and aesthetic medicine</a> <br />
 <a href="https://77182651441.21.oml.ru/" target="_blank" rel="noreferrer">Interra</a> <br />
 <a href="http://liga63.ru/" target="_blank" rel="noreferrer">Legal services</a> <br />
-
-
+<a href="http://winkingrose.ru/" target="_blank" rel="noreferrer">WinkingRose </a> <br />
+<a href="https://adals.kz/" target="_blank" rel="noreferrer">Adal Solutions </a> <br />
+<a href="https://bumerangplastik.ru/" target="_blank" rel="noreferrer">Bumerang plastik</a> <br />
